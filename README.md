@@ -1,4 +1,4 @@
-## Design Patterns in JavaScript
+## JavaScript Design Patterns
 
 
 ### Summary
@@ -11,7 +11,7 @@
 
 ### Motivations
 
-Create a simple, compact and concise reference for the most important Design Patterns in JavaScript.
+Create a concise and practical reference for the most common JavaScript Design Patterns.
 
 
 ### License
