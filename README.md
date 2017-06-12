@@ -12,6 +12,7 @@
 07) Command
 08) Facade
 09) Factory Method
+10) Abstract Factory
 
 
 ### Motivations

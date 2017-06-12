@@ -1,4 +1,4 @@
-// 09 - Factory method pattern
+// 09 - Factory Method pattern
 
 // The Factory Method pattern uses inheritance and relies on a subclass
 // to handle the desired object instantiation.
