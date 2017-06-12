@@ -11,6 +11,7 @@
 06) Mediator
 07) Command
 08) Facade
+09) Factory Method
 
 
 ### Motivations
