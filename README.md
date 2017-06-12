@@ -8,7 +8,7 @@
 03) Singleton
 04) Observer
 05) Publish / Subscribe
-
+06) Mediator
 ### Motivations
 
 Create a concise and practical reference for the most common JavaScript Design Patterns.
