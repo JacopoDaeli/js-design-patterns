@@ -7,7 +7,7 @@
 02) Module
 03) Singleton
 04) Observer
-
+05) Publish / Subscribe
 
 ### Motivations
 
