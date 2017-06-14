@@ -34,3 +34,28 @@ console.log(ruben.sayHi())
 console.log(ruben.toString())
 console.log(jacopo.sayHi())
 console.log(jacopo.toString())
+
+// Appendix ES6:
+class A {
+  constructor (who) {
+    this._who = who
+    console.log(`created ${this._who}`)
+  }
+  doStuff () {
+    console.log(`${this._who} did stuff`)
+  }
+}
+
+class B extends A {
+  constructor (who) {
+    super(who)
+    console.log(`${this._who} will do something soon`)
+  }
+  doStuff () {
+    super.doStuff()
+    console.log('and it was awesome')
+  }
+}
+
+const b = new B('B')
+b.doStuff()
