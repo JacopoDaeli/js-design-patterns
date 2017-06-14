@@ -13,7 +13,9 @@
 08) Facade
 09) Factory Method
 10) Abstract Factory
-
+11) Mixin
+12) Decorator
+13) Flyweight
 
 ### Motivations
 

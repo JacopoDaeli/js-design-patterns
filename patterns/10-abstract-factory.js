@@ -1,4 +1,4 @@
-// 08 - Abstract Factory pattern
+// 10 - Abstract Factory pattern
 
 // Abstract Factory pattern, a class delegates the responsibility
 // of object instantiation to another object via composition.
