@@ -17,6 +17,7 @@
 12) Decorator
 13) Flyweight
 
+
 ### Motivations
 
 Create a concise and practical reference for the most common JavaScript Design Patterns.
